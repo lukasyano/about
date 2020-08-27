@@ -21,11 +21,22 @@
 title: Antanas Toliusis
 email: antanas.toliusis1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Susigalvok kas galetu buti parasyta CIA !!!
+ Susigalvok ar nori kad cia butu parasyta kasnors !!! Be to, tavo linkedin_username atrodo ugly
 baseurl: "/about" 
 url: "https://github.com/lukasyano"
 twitter_username: Turi twiteri ? neradau 
+site_title : Antanas Toliusis
 github_username:  lukasyano
+
+author: Antanas Toliusis
+linkedin_username: antanas-toliusis-0b3b9930
+copyright: "Apps81"
+
+
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title-logo : /images/title-logo.png
 
 # Build settings
 # theme : minima
