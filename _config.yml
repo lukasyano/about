@@ -36,7 +36,7 @@ copyright: "Apps81"
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title-logo: /images/title-logo.png
+title-logo: /images/title-logo.PNG
 
 # Build settings
 # theme : minima
