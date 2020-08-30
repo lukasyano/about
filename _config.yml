@@ -21,14 +21,13 @@
 title: Antanas Toliusis
 email: antanas.toliusis1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- Susigalvok ar nori kad cia butu parasyta kasnors !!! Be to, tavo linkedin_username atrodo ugly
+ Susigalvok ar nori kad cia butu parasyta kasnors !!! 
 baseurl: "/about" 
 url: "https://github.com/lukasyano"
 twitter_username: Turi twiteri ? neradau 
 github_username:  lukasyano
 
 author: Antanas
-linkedin_username: antanas-toliusis-0b3b9930
 copyright: "Apps81"
 
 
